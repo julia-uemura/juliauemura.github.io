@@ -1,5 +1,5 @@
 # 🙎‍♀️ Júlia Uemura
-<img src="foto.jpeg" width="150">
+<img src="foto.jpeg" style="width:150px; max-width:150px; height:auto; border-radius:50%;">
 
 Meu nome é Júlia Uemura, sou estudante do primeiro semestre de Análise e Desenvolvimento de Sistemas pelo CEUB.  
 Atualmente, busco oportunidades de estágio para desenvolver meus conhecimentos e adquirir experiência prática na área de tecnologia.
